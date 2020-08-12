@@ -1,0 +1,2 @@
+insert into lancamento(descricao,data_vencimento,data_pagamento,valor,observacao,tipo,codigo_categoria,codigo_pessoa) values('vedender','2019-02-11','2020-01-02',3250.00,null,'cadastrar',1,1);
+insert into lancamento(descricao,data_vencimento,data_pagamento,valor,observacao,tipo,codigo_categoria,codigo_pessoa) values('vedender','2019-03-11','2020-01-02',220.00,null,'varejo',2,2);
